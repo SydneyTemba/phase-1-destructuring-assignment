@@ -57,4 +57,3 @@ const { muppetName, color, song, job, partner } = muppet;
 const { song2, song4 } = nestedMuppet.album.theMuppetMovie;
 const { nestedJob, nestedPartner } = nestedMuppet;
 
-module.exports = { moo, neigh, baa, oink, cluck, bessie, dolly, babe, little, blackAndWhite, black, sheepColor, red, orange, yellow, green, blue, indigo, violet, r, o, y, g, b, v, indg, muppetName, color, song, job, partner, song2, song4, nestedJob, nestedPartner };
